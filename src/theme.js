@@ -4,14 +4,6 @@ export const theme = {
     firstBgColor: '#5cb3ed',
     hoverBgColor: '#795ced',
     thirdDgColor: 'rgb(114, 185, 229)',
-
-    mainTextColor: '#000000',
-    secondTextColor: '#7a7979',
-    thirdTextColor: '#ffffff',
-    borderColor: '#c2bfbf',
-
-    onlineColor: '#17c817',
-    offlineColor: '#f63838',
   },
   space: [0, 2, 4, 8, 16, 32, 64, 128, 256],
   fonts: {
